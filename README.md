@@ -38,7 +38,7 @@ Amazon Sales Dataset (Kaggle): 1,465 product rows, 1,348 after removing duplicat
 - Only three categories were large enough to compare.
 
 ## Dashboard
-   ![Dashboard](Dashboard1.png)
+   ![Dashboard](Dashboard.png)
 
 Live dashboard: https://public.tableau.com/app/profile/kavya.j8348/viz/Amazondiscountanalysis/Dashboard1
 
